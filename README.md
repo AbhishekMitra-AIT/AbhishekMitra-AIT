@@ -12,9 +12,12 @@ I am a passionate developer with a keen interest in Self Driving Car, AI and Mac
 - **OS:** Ubuntu / Windows
 
 ### Projects
-- **BYD ATTO3 car porting(WIP):** https://github.com/qzwf/openpilot 
-- **Test bench for testing RPM and current consumption of PMDC motors(complete):** https://www.youtube.com/watch?v=2FyCvWnkLyM
-- **Remote control for solar panel cleaning robot using RadioMaster ELRS(Pocket, TX12)(complete)** 
+|Project Name|Reference|Status|
+|--------------------|--------------------------------------------------|---------------------|
+|**BYD ATTO3 car porting**|https://github.com/qzwf/openpilot|WIP|
+|**Test bench for testing RPM and current consumption of PMDC motors**|https://www.youtube.com/watch?v=2FyCvWnkLyM|complete|
+|**Remote control for solar panel cleaning robot using RadioMaster ELRS(Pocket, TX12)**||complete|
+
 
 
 ### Education

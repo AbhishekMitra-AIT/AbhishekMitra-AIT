@@ -5,15 +5,15 @@ I am a passionate developer with a keen interest in Self Driving Car, AI and Mac
 
 ### Skills
 - **Programming Languages:** Python, C/C++
-- **Machine Learning:** TensorFlow, OpenCV
+- **Machine Learning:** TensorFlow, OpenCV, YOLO_v11
 - **IOT/Embedded:** Nvidia JetsonNano, Raspberry PI(3,4,5), Raspberry PI-PICO, STM32, ESP32, Arduino 
-<!-- - **Database Management:** MySQL, MongoDB -->
-- **Tools:** Git, ChatGPT, Claude, VSCode, KiCad, ArduinoIDE, STM32CubeIDE, Thonny
+- **Tools:** Git, ChatGPT, Claude, VSCode, KiCad, ArduinoIDE, STM32CubeIDE, Thonny, Roboflow
+- **Project Management:** ClickUp
 - **OS:** Ubuntu / Windows
+<!-- - **Database Management:** MySQL, MongoDB -->
 
 ### Projects
 |Project Name|Reference|Status|
-|--------------------|--------------------------------------------------|---------------------|
 |**BYD ATTO3 car porting**|https://github.com/qzwf/openpilot|WIP|
 |**Test bench for testing RPM and current consumption of PMDC motors**|https://www.youtube.com/watch?v=2FyCvWnkLyM|complete|
 |**Remote control for solar panel cleaning robot using RadioMaster ELRS(Pocket, TX12)**||complete|

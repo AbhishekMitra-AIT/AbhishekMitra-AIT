@@ -6,12 +6,16 @@ I am a passionate developer with a keen interest in Self Driving Car, AI and Mac
 ### Skills
 - **Programming Languages:** Python, C/C++
 - **Machine Learning:** TensorFlow, OpenCV
-- **Database Management:** MySQL, MongoDB
-- **Tools:** Git
-- **OS:** Ubuntu 24.04 / Windows
+- **IOT/Embedded:** Nvidia JetsonNano, Raspberry PI(3,4,5), Raspberry PI-PICO, STM32, ESP32, Arduino 
+<!-- - **Database Management:** MySQL, MongoDB -->
+- **Tools:** Git, ChatGPT, Claude, VSCode, KiCad, ArduinoIDE, STM32CubeIDE, Thonny
+- **OS:** Ubuntu / Windows
 
 ### Projects
-- **Comming soon..** 
+- **BYD ATTO3 car porting(WIP):** https://github.com/qzwf/openpilot 
+- **Test bench for testing RPM and current consumption of PMDC motors(complete):** https://www.youtube.com/watch?v=2FyCvWnkLyM
+- **Remote control for solar panel cleaning robot using RadioMaster ELRS(Pocket, TX12)(complete)** 
+
 
 ### Education
 - **Bachelor of Engineering in Electronics and Telecommunication** - Pune University, Army Institute of Technology, Graduated: 2014

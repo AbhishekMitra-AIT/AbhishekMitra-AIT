@@ -38,6 +38,6 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 ![AbhishekMitra-AIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekMitra-AIT&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMitra-AIT&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMitra-AIT&commits_year=2025&layout=compact&theme=radical)
 
 Thanks for visiting my profile! 😊

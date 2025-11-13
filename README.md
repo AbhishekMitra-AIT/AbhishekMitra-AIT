@@ -32,7 +32,7 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 > [LinkedIn](https://www.linkedin.com/in/abhishekmitra03) ✨
 [![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/abhishekmitra03/)
 
-> Join me on [Discord](https://discord.com/channels/@abhishekmitra_ait) channel 👇
+> Join me on [Discord](https://discord.com/channels/@abhishekmitra_ait) channel 👉
 [![Discord](assets/discord.png)](https://discord.com/channels/@abhishekmitra_ait)
 
 ### GitHub Stats

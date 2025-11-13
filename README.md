@@ -26,9 +26,10 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 
 ### Contact Me
 - **Email:** abhishekmitra91@gmail.com
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Resume%20Matcher-FFF?labelColor=black&logo=LinkedIn&style=for-the-badge&color=c20a71)](https://www.linkedin.com/in/abhishek-mitra-61098260/)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?labelColor=black&logo=LinkedIn&style=for-the-badge&color=c20a71)](https://www.linkedin.com/in/abhishek-mitra-61098260/)
 
-[![Discord](https://img.shields.io/discord/1122069176962531400?labelColor=black&logo=discord&logoColor=c20a71&style=for-the-badge&color=c20a71)]
+> Join me [Discord](https://discord.com/channels/@abhishekmitra_ait) channel 👇
+[![Discord](assets/discord.png)](https://discord.com/channels/@abhishekmitra_ait)
 
 ### GitHub Stats
 ![AbhishekMitra-AIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekMitra-AIT&show_icons=true&theme=radical)

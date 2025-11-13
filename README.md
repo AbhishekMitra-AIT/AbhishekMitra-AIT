@@ -25,10 +25,13 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 - **Bachelor of Engineering in Electronics and Telecommunication** - Pune University, Army Institute of Technology, Graduated: 2014
 
 ### Contact Me
-- **Email:** abhishekmitra91@gmail.com
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?labelColor=black&logo=LinkedIn&style=for-the-badge&color=c20a71)](https://www.linkedin.com/in/abhishek-mitra-61098260/)
+<!-- - **Email:**  -->
+> [Email](assets/gmail.png)(abhishekmitra91@gmail.com)
 
-> Join me [Discord](https://discord.com/channels/@abhishekmitra_ait) channel 👇
+> [LinkedIn](https://www.linkedin.com/in/abhishekmitra03) ✨
+[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/abhishekmitra03/)
+
+> Join me on [Discord](https://discord.com/channels/@abhishekmitra_ait) channel 👇
 [![Discord](assets/discord.png)](https://discord.com/channels/@abhishekmitra_ait)
 
 ### GitHub Stats

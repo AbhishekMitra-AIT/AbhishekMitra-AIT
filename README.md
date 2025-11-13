@@ -26,7 +26,8 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 
 ### Contact Me
 <!-- - **Email:**  -->
-> [Email](assets/gmail.png)(abhishekmitra91@gmail.com)
+> [Email](abhishekmitra91@gmail.com)
+[![Email](assets/gmail.png)]
 
 > [LinkedIn](https://www.linkedin.com/in/abhishekmitra03) ✨
 [![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/abhishekmitra03/)

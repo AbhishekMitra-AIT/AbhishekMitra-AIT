@@ -23,7 +23,7 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 
 ### Education
 [![](assets/ait.png)](https://www.aitpune.com/) &nbsp;
-[![](assets/pune_unversity.png)](https://www.unipune.ac.in/)
+[![](assets/pune_university.png)](https://www.unipune.ac.in/)
 - **Bachelor of Engineering in Electronics and Telecommunication** - Pune University, Army Institute of Technology, Graduated: 2014
 
 

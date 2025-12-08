@@ -16,7 +16,8 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 |Project Name|Reference|Status|
 |--------------------|------------------|---------------------|
 |**Stewart Platform Control System**|https://github.com/AbhishekMitra-AIT/stewart_platform_control|complete|
-|**Testing webapp for Athlete training data**|https://github.com/AbhishekMitra-AIT/Athlete_dashboard_testing|WIP|
+|**E-Commerce full stack website**|https://abhishekmitra-ait.github.io/home_food/|complete|
+|**home_milk_calculator**|https://home-milk-calculator-sw93.onrender.com/login|WIP|
 |**BYD ATTO3 car porting**|https://github.com/qzwf/openpilot|WIP|
 |**Test bench for testing RPM and current consumption of PMDC motors**|https://www.youtube.com/watch?v=2FyCvWnkLyM|complete|
 |**Remote control for solar panel cleaning robot using RadioMaster ELRS(Pocket, TX12)**||complete|

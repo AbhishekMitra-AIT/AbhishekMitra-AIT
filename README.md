@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek Mitra 👋
+# Hi there, I'm Abhishek Mitra <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 ### About Me
 I am a passionate developer with a keen interest in  Software Developement, AI / Machine Learning, Self Driving Car. I love long distance running, cooking.
@@ -20,7 +20,7 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 <a href="https://git-scm.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></a> &nbsp;
 <a href="https://github.com/"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></a> &nbsp;
 <a href="https://code.visualstudio.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></a> &nbsp;
-<a href="https://www.python.org"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></a> &nbsp;
+<a href="https://www.python.org"><img width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" title="Python"/></a> &nbsp;
 <a href="https://jupyter.org"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></a> &nbsp;
 <a href="https://www.w3schools.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></a> &nbsp;
 <a href="https://www.w3schools.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></a> &nbsp;

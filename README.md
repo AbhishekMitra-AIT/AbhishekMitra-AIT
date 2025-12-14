@@ -35,7 +35,7 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 <a href="https://aws.amazon.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></a> &nbsp;
 <a href="https://www.microsoft.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></a> &nbsp;
 <a href=""><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></a> &nbsp;
-<a href="https://ubuntu.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></a> &nbsp;
+<a href="https://ubuntu.com"><img width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" alt="Ubuntu" title="Ubuntu"/></a> &nbsp;
 <a href="https://www.arduino.cc"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></a> &nbsp;
 <a href="https://www.raspberrypi.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></a> &nbsp;
 <a href="https://fastapi.tiangolo.com"><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></a> &nbsp;
@@ -77,8 +77,7 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 
 ### Contact Me
 
-
-[![Email](assets/gmail.png)](abhishekmitra91@gmail.com)<a href="https://discord.com/channels/@abhishekmitra_ait" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"></a><a href="https://linkedin.com/in/abhishekmitra03" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" /></a> &nbsp;
+<a href="https://discord.com/channels/@abhishekmitra_ait" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"></a><a href="https://linkedin.com/in/abhishekmitra03" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" /></a> &nbsp;
 
 ### GitHub Stats
 ![AbhishekMitra-AIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekMitra-AIT&show_icons=true&theme=radical)

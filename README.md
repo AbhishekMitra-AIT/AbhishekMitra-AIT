@@ -80,9 +80,9 @@ I am a passionate developer with a keen interest in  Software Developement, AI /
 
 [![Email](assets/gmail.png)](abhishekmitra91@gmail.com) &nbsp; 
 <!-- [![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/abhishekmitra03/) &nbsp; -->
-[![Discord](assets/discord.png)](https://discord.com/channels/@abhishekmitra_ait) &nbsp;
-
-<a href="https://linkedin.com/in/abhishekmitra03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekmitra03" height="30" width="40" /></a>
+<!-- [![Discord](assets/discord.png)](https://discord.com/channels/@abhishekmitra_ait) &nbsp; -->
+<a href="https://discord.com/channels/@abhishekmitra_ait" target="blank"><img align="center" src="https://discordapp.com/assets/4358ad1fb423b346324516453750f569.svg" alt="abhishekmitra03" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/abhishekmitra03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekmitra03" height="30" width="40" /></a> &nbsp;
 
 ### GitHub Stats
 ![AbhishekMitra-AIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekMitra-AIT&show_icons=true&theme=radical)
